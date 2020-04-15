@@ -1,0 +1,19 @@
+.big{
+    color: rgb(0, 0, 255);
+}
+
+.b326, #b325 {
+    border: solid 1px green;
+}
+
+div{
+    font-weight: bold;
+}
+
+p{
+    background: yellow;
+}
+
+div:hover, p:hover{
+    background: red;
+}

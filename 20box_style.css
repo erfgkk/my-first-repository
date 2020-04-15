@@ -1,0 +1,22 @@
+.felso, .also{
+    border: solid 2px blue;
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    padding: 25px 25px;
+    margin: 5px;
+}
+.kek, .lila{
+    height: 50px;
+    width: 50px;
+    /* margin: 10px; */
+}
+.kek{
+    background: blue;
+}
+.lila{
+    background: purple;
+}
+.also{
+    background: red;
+}
